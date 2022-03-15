@@ -9,6 +9,8 @@ this is a simple church website
  * JQUERY
  * Bootstrap
 
+site can be viewed here 
+
 
 
 Feel free to download and use!
