@@ -5,5 +5,5 @@ this is a simple church website
 ## Technologies used
  
  * HTML
- * HTML 
+ * CSS
  * JQUERY
