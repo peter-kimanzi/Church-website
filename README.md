@@ -8,6 +8,8 @@ this is a simple church website
  * CSS
  * JQUERY
  * Bootstrap
+ * SCSS
+ * JavaScript
 
 site can be viewed here https://peter-kimanzi.github.io/Church-website/
 
