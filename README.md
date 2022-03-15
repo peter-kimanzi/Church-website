@@ -9,7 +9,7 @@ this is a simple church website
  * JQUERY
  * Bootstrap
 
-site can be viewed here 
+site can be viewed here https://peter-kimanzi.github.io/Church-website/
 
 
 
