@@ -1,4 +1,4 @@
-# Church-website
+# Church-website 🌟
 
 this is a simple church website 
 
@@ -9,8 +9,7 @@ this is a simple church website
  * JQUERY
  * Bootstrap
 
-# Contribute
-Show your support by 🌟 the project!!
+
 
 Feel free to contribute!
 
